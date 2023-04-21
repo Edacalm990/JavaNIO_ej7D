@@ -1,0 +1,10 @@
+0 - Citroën:Pp0hhur17o:Fvfkv:0:AUTÓMATICO
+0 - Citroën:ydoyOaTR5C:usU9p:1:MANUAL
+0 - Ford:bgKIAXjgP2:CKtN9:2:MANUAL
+0 - Mercedes:UAOI5SF5QV:BC1P9:3:MANUAL
+0 - Peugeot:51f8GIcL3M:7mJK7:1:AUTÓMATICO
+0 - Peugeot:kRKqj3FGuq:cX4Yn:1:AUTÓMATICO
+0 - Renault:GOQYeXC63j:xbl2R:0:AUTÓMATICO
+0 - Volkswagen:QJlbEqxeBp:aeKca:0:AUTÓMATICO
+0 - Volkswagen:0L2fB88lNX:IOtYh:1:MANUAL
+0 - Volkswagen:j4QQ6bKN8F:UFfeK:1:AUTÓMATICO
